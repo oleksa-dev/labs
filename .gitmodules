@@ -1,0 +1,3 @@
+[submodule "NestJS/nest-jwt"]
+	path = NestJS/nest-jwt
+	url = https://github.com/oleksa-dev/nest-jwt
